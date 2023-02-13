@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", "Comic Sans"
+}
+h1{
+    font-size: 3.5rem;
+}
+#logos{
+    display: block;
+    height: 100px;
+    background-color: black;
+    margin-top: 2.5em;
+    margin-left: 0px;
+    text-align: end;
+    position: relative;
+    left: 65rem;
+    
+}
+
+header{
+    background-image: url(../Fotos/design1_image1.jpg) ;
+    background-repeat: no-repeat;
+    min-height: 35vh;
+    background-size: cover;
+border-bottom: solid 2px black;
+}
+h2{
+    background-color: black;
+    text-align: center;
+}
+nav{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+    max-width: 25%;
+    vertical-align: top;
+}
+a{
+    display: inline-block;
+    box-sizing: none;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    padding: 0px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    
+}
+h3{
+    margin-top: 1rem;
+}
+section{
+    
+    min-height: 100px;
+    width: 900px;
+    margin: 80px;
+    display: inline-block;
+    box-sizing: none;
+    font-size: 1rem;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 14px;
+    padding: 1rem;
+
+}
